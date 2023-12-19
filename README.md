@@ -10,4 +10,4 @@ atue em processos industriais a partir da manipulação das variáveis em unidad
 de engenharia.
 Assim, este software constitui-se como um elo fundamental entre a leitura ou
 escrita das variáveis no CLP e a disponibilização da informação das variáveis, no
-formato adequado, para o sistema supervisório.
+formato adequado, para o sistema supervisório. 
